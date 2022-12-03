@@ -1,0 +1,9 @@
+/* hero background image */
+.hero {
+    background-image: url('https://estaticos.muyinteresante.es/uploads/images/article/55365e42066de9087b6a6064/frases-cervantes_0.jpg');
+    height: 400px;
+    background-size: 100%;
+    margin: 10px 10px 10px 10px;
+}
+
+

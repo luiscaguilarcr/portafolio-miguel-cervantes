@@ -1,0 +1,21 @@
+p {
+    font-weight: 300;
+}
+a {
+    font-weight: 400;
+}
+.kilimanjaro_bottom_header_one {
+    background-color: #111;
+    text-align:center;
+}
+.section_padding {
+    padding: 55px 0px;
+}
+.kilimanjaro_bottom_header_one p {
+    color: #fff;
+    margin: 0;
+}
+.kilimanjaro_bottom_header_one a {
+    color: inherit;
+    font-size: 14px;
+}
